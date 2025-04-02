@@ -13,4 +13,4 @@ Currently pursuing my master degree in AI, i'm trying to learn more about AI too
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
