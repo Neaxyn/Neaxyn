@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Tools
+Currently pursuing my master degree in AI, i'm trying to learn more about AI tools
 
 
 # 💻 Tech Stack:
