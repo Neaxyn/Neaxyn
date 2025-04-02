@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Axel and I'm a AI student from Université of Toulouse and i'm learning Machine leaning and deep Learning Tools</h2>
 
 ###
 
