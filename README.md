@@ -1,2 +1,2 @@
-![Blue Lock Karasu Tabito](https://media.tenor.com/_4xHOMXUAb0AAAAC/blue-lock-karasu-tabito.gif)
+![Blue Lock Karasu Tabito](https://github.com/Neaxyn/Neaxyn/raw/main/GIFS/blue-lock-karasu-tabito.gif)
 
