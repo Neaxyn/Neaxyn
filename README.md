@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Axel and I'm a AI student from Université of Toulouse and i'm learning Machine leaning and deep Learning Tools</h2>
+<h2 align="left">>Hi 👋! My name is Axel and I'm a AI student from Université of Toulouse and i'm learning Machine leaning and deep Learning Tools</h2>
 
 ###
 
@@ -37,14 +37,20 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/JP4hCM9MsOQAAAAd/blue-lock-karasu-tabito.gif"  />
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neaxyn/Neaxyn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neaxyn/Neaxyn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Neaxyn/Neaxyn/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://media1.tenor.com/m/JP4hCM9MsOQAAAAd/blue-lock-karasu-tabito.gif"  />
+</div>
 
 ###
