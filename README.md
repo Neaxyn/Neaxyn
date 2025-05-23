@@ -55,8 +55,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/JP4hCM9MsOQAAAAd/blue-lock-karasu-tabito.gif"  />
-</div>
 
 ###
