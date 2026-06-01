@@ -1,9 +1,8 @@
-<h2 align="left">>Hi 👋! My name is Axel, and I currently finishing my master in AI at Université de Toulouse </h2>
+<h2 align="left">>Hi 👋! My name is Axel, and I currently finishing my master degree in AI at Université de Toulouse </h2>
 
 ###
 
 <br clear="both">
-###
 
 <br clear="both">
 
