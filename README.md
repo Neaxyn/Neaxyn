@@ -3,9 +3,6 @@
 ###
 
 <br clear="both">
-
-<p align="center">My Skills:</p>
-
 ###
 
 <br clear="both">
